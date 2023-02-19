@@ -9,6 +9,8 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/Delwari?style=social)
 
+[criar badges](https://shields.io/)
+
 # 📚 Descrição do Projeto
 
 Esse projeto serve para testar e aplicar meus apredizados em github
